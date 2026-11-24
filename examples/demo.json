@@ -1,0 +1,50 @@
+{
+  "scenes": [
+    {
+      "seconds": 2,
+      "caption": "What if gravity stopped?",
+      "theme": "night",
+      "actors": [
+        {
+          "action": "point",
+          "x": 0.3
+        },
+        {
+          "action": "idle",
+          "x": 0.7,
+          "facing": -1
+        }
+      ]
+    },
+    {
+      "seconds": 2,
+      "caption": "For just one second...",
+      "theme": "studio",
+      "actors": [
+        {
+          "action": "jump",
+          "x": 0.3
+        },
+        {
+          "action": "jump",
+          "x": 0.7
+        }
+      ]
+    },
+    {
+      "seconds": 2,
+      "caption": "Even a small change matters.",
+      "actors": [
+        {
+          "action": "talk",
+          "x": 0.3
+        },
+        {
+          "action": "wave",
+          "x": 0.7,
+          "facing": -1
+        }
+      ]
+    }
+  ]
+}
